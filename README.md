@@ -1,1 +1,1 @@
-# simple_chat
+# random_anonymous_chat
